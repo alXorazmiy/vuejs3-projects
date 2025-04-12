@@ -6,6 +6,7 @@
     </MainLayout>
 </template>
 
-<script lang="ts" setup>
+<script setup>
     import MainLayout from "~/layouts/MainLayout.vue";
+    import  PostMain  from "~/components/posts/PostMain.vue";
 </script>
